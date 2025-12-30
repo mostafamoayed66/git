@@ -1,1 +1,20 @@
-
+{
+  "name": "gogreen",
+  "version": "1.0.0",
+  "description": "make it bussy",
+  "homepage": "https://github.com/mostafamoayed66/git#readme",
+  "bugs": {
+    "url": "https://github.com/mostafamoayed66/git/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mostafamoayed66/git.git"
+  },
+  "license": "ISC",
+  "author": "Mostafa",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
