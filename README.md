@@ -29,7 +29,11 @@
 ## Creator
  Mostafa Moayedpour
 
-## Installation
+## 👨‍💻 About Me
+``` bash
+goGreen helps you create commits on your GitHub profile for any date in the past.
+
+```
 
 ### Clone repo
 
@@ -49,6 +53,7 @@ $ npm install simple-git
 ```
 
 ## Creators
+
 **Mostafa Moayedpour**
 
 ## Copyright and License
