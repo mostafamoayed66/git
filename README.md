@@ -38,7 +38,7 @@
 $ git clone https://github.com/mostafamoayed66/git.git
 
 # go into app's directory
-$ cd my-project
+$ cd git
 
 # install app's dependencies
 $ npm install jsonfile
