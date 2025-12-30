@@ -26,6 +26,27 @@
 - 🌍 Targeting **IT roles in Germany**
 - 🗣️ Languages: **German (B2)** | **English (B2)**
 
+## Creator
+ Mostafa Moayedpour
+
+## Installation
+
+### Clone repo
+
+``` bash
+# clone the repo
+$ git clone https://github.com/mostafamoayed66/git.git
+
+# go into app's directory
+$ cd my-project
+
+# install app's dependencies
+$ npm install jsonfile
+$ npm install moment
+$ npm install random
+$ npm install simple-git
+
+```
 
 ## Creators
 **Mostafa Moayedpour**
