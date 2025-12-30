@@ -26,4 +26,12 @@
 - 🌍 Targeting **IT roles in Germany**
 - 🗣️ Languages: **German (B2)** | **English (B2)**
 
+
+## Creators
+**Mostafa Moayedpour**
+
+## Copyright and License
+
+copyright 2024 creator Mostafa Moayedpour. 
+
 ---
